@@ -1,0 +1,25 @@
+
+logo black:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/logo-black.png
+
+logo white:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/logo-white.png
+
+imagenes:
+1:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/1.jpg
+2:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/2.jpg
+3:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/3.jpg
+4:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/4.jpg
+5:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/5.jpg
+6:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/6.jpg
+-------------------
+1:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/blog/style1/1.jpg
+2:
+http://regaltheme.com/tf/multi/rm/rm/assets/img/blog/style1/2.jpg
